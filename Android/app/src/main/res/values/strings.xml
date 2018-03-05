@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Group List</string>
+    <string name="login_button">Login</string>
+    <string name="create_button">Create Account</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>

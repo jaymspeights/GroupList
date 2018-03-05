@@ -1,0 +1,20 @@
+{
+  "name": "grouplist",
+  "version": "1.0.0",
+  "description": "Makes it easier to collaberate on lists",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jay",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "mongodb": "^3.0.3",
+    "ws": "^4.1.0"
+  }
+}
